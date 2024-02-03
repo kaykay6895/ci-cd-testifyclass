@@ -6,3 +6,6 @@ if (side1 === side2 && side2 === side3) {
     console.log('equilateral triangle')
 }
 
+else if (side1 === side2) {
+    console.log('isosceles triangle')
+}
