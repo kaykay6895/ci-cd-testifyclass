@@ -1,5 +1,5 @@
 
-const myObject = {
+let myObject = {
 
 
     book:'the men called God',
